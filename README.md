@@ -13,3 +13,9 @@ Repositório dos códigos de exemplo utilizados na disciplina de **Programação
 * Encapsulamento
 * modificadores de acesso public, private e default(package)
 * getters, setters e construtores
+
+## aula 4
+* Mutabilidade de objetos
+* Igualdade e identidade de objetos
+* Elementos estáticos de uma classe
+* Reescrevendo o toString() e equals()
