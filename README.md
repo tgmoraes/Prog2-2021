@@ -19,3 +19,15 @@ Repositório dos códigos de exemplo utilizados na disciplina de **Programação
 * Igualdade e identidade de objetos
 * Elementos estáticos de uma classe
 * Reescrevendo o toString() e equals()
+
+# Terceiro trimestre:
+## aula 5
+* Arrays e ArrayLists
+* Associação entre classes
+* Composição
+* Agregação
+
+## aula 6
+* Herança entre classes
+* extends, protected, @Override, final classes ...
+* Polimorfismo
