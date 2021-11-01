@@ -31,3 +31,6 @@ Repositório dos códigos de exemplo utilizados na disciplina de **Programação
 * Herança entre classes
 * extends, protected, @Override, final classes ...
 * Polimorfismo
+
+## aula 7
+* Exemlo de um sisteminha para ajudar no pojeto da disciplina.
